@@ -2,7 +2,7 @@
 This is a game created by Nuhan Mano, to make a replica of Geomatry dash. This app  is called Nethu Dash and it completely free to use, it has new and improved levels and many more cool obstacles.
 
 # Install Method:
-1. You have to download the releases zip from the right side corner.
+1. You have to download Nethu Dash v1.0 zip from the releases in the right side corner.
 2. Ince you downloaded the zip you have to open the 'Nethu Dash setup' file and click on the installer, and proceed
 3. after you are done installing this save the Nethu Dash folder to a secure place like "C:\Program Files" (DO NOT DELETE ANY FILES FROM NETHU DASH FOLER)
 4. After you have completed doing all of these steps then go to search bar on your computer and search for Nethu Dash.exe, open that app and continue to play
