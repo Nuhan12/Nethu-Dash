@@ -19,6 +19,13 @@ Each level ranges from easiest to hardest, so pick a level you like, but in each
 Once you close the app your highest socre will not be save, so better take a screenshot of it before you close
 In order to stop the game from replaying you have to click on the red decagon on top
 
+# Saving Instructions
+If you want to save this instructions list then you have to:
+01. Click on code and copy this URL 
+02. Go to cmd (run as administrator), 
+03. Then specify the location (if you want to save it in Desktop type: cd 'your_ desktop_location') 
+04. Then type git clone and paste this link it should look like this : git clone https://github.com/Nuhan12/Nethu-Dash.git 
+05. After all of this is done go to Desktop click on Nethu Dash and the instructions will be save there
 
 # Credits and License
   Creator of game: Nuhan Mano
