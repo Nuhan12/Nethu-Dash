@@ -4,7 +4,7 @@ This is a game created by Nuhan Mano, to make a replica of Geomatry dash. This a
 # Install Method:
 1. You have to download Nethu Dash v1.0 zip from the releases in the right side corner.
 2. Once you downloaded the zip you have to open the 'Nethu Dash setup' file and click on the installer, and proceed
-3. After you are done installing this save the Nethu Dash folder to a secure place like "C:\Program Files" (DO NOT DELETE ANY FILES FROM NETHU DASH FOLER)
+3. After you are done installing this save the Nethu Dash folder to a secure place like "C:\Program Files" (DO NOT DELETE ANY FILES FROM NETHU DASH FOLDER)
 4. After you have completed doing all of these steps then go to search bar on your computer and search for Nethu Dash.exe, open that app and continue to play, (if the app doesnt open go to 'Nethu dash source' in the 'Nethu Dash folder', and click on 'Nethu dash application' run it a few times then it will automatically appear in search bar.)
 
 You can watch the setup video inside 'Nethu Dash setup' for clearer instructions
